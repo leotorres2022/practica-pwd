@@ -28,7 +28,7 @@ function GuardarDatos(){
   `;
 
     alert ( datosUsuario)
-    alert("Usuario creado Correcto")
+    alert("Usuario Creado Correcto")
 
    nombre.value=""
    email.value=""
